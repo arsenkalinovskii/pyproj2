@@ -1,5 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
 import translators
 import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
